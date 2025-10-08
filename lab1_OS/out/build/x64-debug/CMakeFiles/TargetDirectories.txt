@@ -1,0 +1,5 @@
+C:/Users/acer/OneDrive/Desktop/прога/OS/lab1_OS/out/build/x64-debug/CMakeFiles/lab1_OS.dir
+C:/Users/acer/OneDrive/Desktop/прога/OS/lab1_OS/out/build/x64-debug/CMakeFiles/creator.dir
+C:/Users/acer/OneDrive/Desktop/прога/OS/lab1_OS/out/build/x64-debug/CMakeFiles/reporter.dir
+C:/Users/acer/OneDrive/Desktop/прога/OS/lab1_OS/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/acer/OneDrive/Desktop/прога/OS/lab1_OS/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
